@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+Sitemap: https://solid-choice-plumbing-studio.typical-sammich.chatgpt.site/sitemap.xml

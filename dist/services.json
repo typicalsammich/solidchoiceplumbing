@@ -1,0 +1,289 @@
+[
+  {
+    "slug": "residential-plumbing",
+    "name": "Residential Service & Repair",
+    "short": "Residential",
+    "title": "Your home.\nWorking beautifully.",
+    "intro": "From a persistent drip to a pressure problem, start with a clear understanding of what your home needs.",
+    "topics": [
+      [
+        "Kitchen",
+        "Leaks below sinks, dripping faucets and slow drainage have different causes. Describe where water appears and when it happens."
+      ],
+      [
+        "Bathroom",
+        "Running toilets, leaking fixtures and inconsistent shower pressure deserve diagnosis before parts are replaced."
+      ],
+      [
+        "Laundry",
+        "Supply hoses, valves and drain connections can develop leaks. Tell us the appliance location and whether water is actively escaping."
+      ],
+      [
+        "Main supply",
+        "Pressure changes throughout the property can point beyond one fixture. Note whether hot, cold or both supplies are affected."
+      ]
+    ],
+    "faq": [
+      [
+        "Can you help with low pressure?",
+        "Call to discuss the affected fixtures. Restrictions, valves, leaks and incoming supply conditions can all affect pressure."
+      ],
+      [
+        "What information helps with a leak?",
+        "Describe its location, when it appears, whether water is actively flowing and which fixtures are affected."
+      ]
+    ],
+    "steps": [
+      "Describe the symptoms.",
+      "Discuss assessment and access.",
+      "Review the proposed repair scope."
+    ],
+    "index": 0
+  },
+  {
+    "slug": "commercial-plumbing",
+    "name": "Commercial Service & Repair",
+    "short": "Commercial",
+    "title": "Less disruption.\nMore business as usual.",
+    "intro": "Plumbing affects staff, customers and daily operations. Bring your property’s needs into the conversation from the start.",
+    "topics": [
+      [
+        "Restrooms & fixtures",
+        "Identify leaking fixtures and recurring drain concerns by location. Explain how they affect staff, customers or tenants."
+      ],
+      [
+        "Supply & drainage",
+        "Note whether the problem is isolated to one suite or affects a larger part of the property."
+      ],
+      [
+        "Access & coordination",
+        "Discuss operating hours, tenant access, site requirements and the responsible property contact."
+      ],
+      [
+        "Maintenance planning",
+        "Useful maintenance starts with the equipment and issues present. Discuss a scope suited to your actual property."
+      ]
+    ],
+    "faq": [
+      [
+        "Can work fit around operating hours?",
+        "Call to discuss scheduling and access. Specific times and after-hours availability require confirmation."
+      ],
+      [
+        "What should property managers prepare?",
+        "Have the property type, affected areas, access requirements and an authorized site contact ready."
+      ]
+    ],
+    "steps": [
+      "Identify operational impact.",
+      "Coordinate property access.",
+      "Discuss scope and timing."
+    ],
+    "index": 1
+  },
+  {
+    "slug": "repiping",
+    "name": "Re-Pipes",
+    "short": "Repiping",
+    "title": "A stronger system.\nFrom the inside out.",
+    "intro": "Recurring leaks and aging supply lines may call for a broader conversation about pipe replacement.",
+    "topics": [
+      [
+        "Recognize the pattern",
+        "Repeated leaks and corrosion justify investigation. Age alone does not prove every pipe requires replacement."
+      ],
+      [
+        "Define the scope",
+        "Targeted repair, partial replacement and a whole-property repipe have different implications. Confirm which scopes are offered."
+      ],
+      [
+        "Choose by application",
+        "Copper and PEX have different installation requirements. Selection depends on the application, conditions and applicable requirements."
+      ],
+      [
+        "Plan the access",
+        "Discuss interruptions, wall access, inspection requirements and responsibility for surface restoration."
+      ]
+    ],
+    "faq": [
+      [
+        "Does low pressure mean I need repiping?",
+        "Not necessarily. Fixtures, valves, leaks or incoming supply conditions can also cause pressure changes. Diagnose the cause first."
+      ],
+      [
+        "Is one material always best?",
+        "No. Material selection should fit the application, installation method, conditions and applicable requirements."
+      ]
+    ],
+    "steps": [
+      "Assess condition and history.",
+      "Compare repair and replacement.",
+      "Confirm materials and access."
+    ],
+    "index": 2
+  },
+  {
+    "slug": "water-heater-flushes",
+    "name": "Water Heater Flushes",
+    "short": "Water heater flushes",
+    "title": "Care for the system\nyou rely on.",
+    "intro": "Sediment can collect inside a tank. Appropriate maintenance starts with heater condition and manufacturer guidance.",
+    "topics": [
+      [
+        "Understand sediment",
+        "Mineral sediment can settle at the bottom of a storage tank. A schematic explains the concept but cannot diagnose your heater."
+      ],
+      [
+        "Read the signs",
+        "Changes in noise, hot-water performance or visible leaks merit assessment. They do not establish sediment as the only cause."
+      ],
+      [
+        "Choose the interval",
+        "Manufacturer guidance, usage, water conditions and service history affect maintenance timing."
+      ],
+      [
+        "Assess before flushing",
+        "A leaking, damaged or long-neglected heater may need another approach. Determine suitability before flushing."
+      ]
+    ],
+    "faq": [
+      [
+        "Should every heater be flushed?",
+        "No. Type, condition and service history matter. A damaged or leaking heater needs appropriate assessment first."
+      ],
+      [
+        "Is installation a confirmed service?",
+        "The supplied category is water heater flushing. Call to ask about work outside that scope; installation is not advertised here as confirmed."
+      ]
+    ],
+    "steps": [
+      "Identify heater and history.",
+      "Assess condition and guidance.",
+      "Agree appropriate maintenance."
+    ],
+    "index": 3
+  },
+  {
+    "slug": "water-filtration-systems",
+    "name": "Filtration Systems",
+    "short": "Filtration",
+    "title": "Better choices.\nAt every tap.",
+    "intro": "Choose filtration for a specific water concern, the right application and a realistic maintenance plan.",
+    "topics": [
+      [
+        "Define the concern",
+        "Taste, odor and a particular contaminant are different concerns. Appropriate water information or testing helps selection."
+      ],
+      [
+        "Choose the location",
+        "Point-of-use systems serve a tap; whole-property treatment acts on the incoming supply. Confirm suitability and scope offered."
+      ],
+      [
+        "Match the treatment",
+        "Different technologies address different concerns. No system should be assumed to remove every contaminant."
+      ],
+      [
+        "Maintain performance",
+        "Include cartridge access, specified maintenance and ongoing service costs in your decision."
+      ]
+    ],
+    "faq": [
+      [
+        "Will a filter remove everything?",
+        "No. Review documented performance for the specific product and intended concern."
+      ],
+      [
+        "Can I ask about under-sink filtration?",
+        "Yes. Call to confirm suitable options and which installation scope is offered."
+      ]
+    ],
+    "steps": [
+      "Describe your water concern.",
+      "Discuss treatment suitability.",
+      "Confirm maintenance and scope."
+    ],
+    "index": 4
+  },
+  {
+    "slug": "hydro-jetting",
+    "name": "Hydro Jetting",
+    "short": "Hydro jetting",
+    "title": "Clear the buildup.\nUnderstand the line.",
+    "intro": "High-pressure water can clean suitable drain lines. Pipe condition and the cause of the blockage come first.",
+    "topics": [
+      [
+        "How it works",
+        "A specialized nozzle directs pressurized water through a suitable drain line to help remove interior buildup."
+      ],
+      [
+        "Where it helps",
+        "Grease, sludge and some accumulated debris may respond to jetting. The method depends on the obstruction and access."
+      ],
+      [
+        "Assess the pipe",
+        "Damaged, fragile or otherwise unsuitable lines may need a different approach. Discuss whether inspection is needed."
+      ],
+      [
+        "Beyond a blockage",
+        "Cleaning cannot repair a structural defect. Repeated blockages may require investigation rather than repeated clearing."
+      ]
+    ],
+    "faq": [
+      [
+        "How is jetting different from snaking?",
+        "A cable tool can open a path through an obstruction; jetting uses pressurized water to clean suitable pipe surfaces."
+      ],
+      [
+        "Is it suitable for all pipes?",
+        "No. Condition, material, access and the obstruction determine whether jetting is appropriate."
+      ]
+    ],
+    "steps": [
+      "Discuss blockage history.",
+      "Assess line suitability.",
+      "Select the cleaning approach."
+    ],
+    "index": 5
+  },
+  {
+    "slug": "emergency-plumbing",
+    "name": "24/7 Emergency Calls",
+    "short": "Emergency plumbing",
+    "title": "A plumbing problem.\nA direct line.",
+    "intro": "For urgent concerns, call directly. Tell us what is happening and where you are so availability can be confirmed.",
+    "topics": [
+      [
+        "Call directly",
+        "A website inquiry is not an urgent dispatch channel. Call (562) 641-6364 and describe the problem."
+      ],
+      [
+        "Share essentials",
+        "Give your city, property type, affected fixtures and whether water is actively escaping."
+      ],
+      [
+        "Confirm availability",
+        "24/7 emergency calls do not promise an arrival time. Confirm coverage, timing and next steps by phone."
+      ],
+      [
+        "Prioritize safety",
+        "Keep clear of water near electrical equipment. Contact the appropriate emergency service for an immediate threat to personal safety."
+      ]
+    ],
+    "faq": [
+      [
+        "Do you take calls at night?",
+        "The supplied business information states 24/7 emergency calls. Call directly to confirm availability."
+      ],
+      [
+        "Is an arrival time guaranteed?",
+        "No response or arrival time is promised here. Ask about timing during your call."
+      ]
+    ],
+    "steps": [
+      "Call and describe the issue.",
+      "Confirm location and availability.",
+      "Discuss the next action."
+    ],
+    "index": 6
+  }
+]
